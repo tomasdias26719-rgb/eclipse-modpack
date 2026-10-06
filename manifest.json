@@ -1,0 +1,47 @@
+{
+  "name": "Eclipse Cobblemon",
+  "version": "2026.10.06-224413",
+  "minecraftVersion": "1.21.1",
+  "loader": "fabric",
+  "neoForgeVersion": "",
+  "versionId": "eclipse-cobblemon",
+  "profileName": "Eclipse Cobblemon",
+  "files": [
+    {
+      "path": "mods/Eclipse-Animacoes-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/tomasdias26719-rgb/eclipse-modpack/main/mods/Eclipse-Animacoes-1.0.0.jar",
+      "sha256": "1fa27c26cc7529656d9b19becb2e4f567b493a9371fd61d9292810e19d827776"
+    },
+    {
+      "path": "mods/Eclipse-Construcao-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/tomasdias26719-rgb/eclipse-modpack/main/mods/Eclipse-Construcao-1.0.0.jar",
+      "sha256": "193d44dd32c57638e20f31822491703117ed5bfc0e84016a33a1f6dcfd55f9b4"
+    },
+    {
+      "path": "mods/Eclipse-Gameplay-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/tomasdias26719-rgb/eclipse-modpack/main/mods/Eclipse-Gameplay-1.0.0.jar",
+      "sha256": "0c290d281df120a31c168116744634e501f456bf264e1a667c7ead6e966f44bb"
+    },
+    {
+      "path": "mods/Eclipse-Skins-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/tomasdias26719-rgb/eclipse-modpack/main/mods/Eclipse-Skins-1.0.0.jar",
+      "sha256": "dce5d1af2f271f5741556feb655d1137377d0f818dbd89af8caa8d7faad19952"
+    },
+    {
+      "path": "mods/Eclipse-Texturas-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/tomasdias26719-rgb/eclipse-modpack/main/mods/Eclipse-Texturas-1.0.0.jar",
+      "sha256": "b11cab79a30cc4ea1eb7d37f4c48b42b6b375ea1e2c955797ca3b47d6bc0ac44"
+    },
+    {
+      "path": "mods/Gts-2.5.1-fabric.jar",
+      "url": "https://raw.githubusercontent.com/tomasdias26719-rgb/eclipse-modpack/main/mods/Gts-2.5.1-fabric.jar",
+      "sha256": "b92db15cdf2ed9bccd44a08f4d0b849ba96e861f7041e415361ecca93c9fc920"
+    },
+    {
+      "path": "mods/eclipse-cobblemon-keys-1.0.0 (1).jar",
+      "url": "https://raw.githubusercontent.com/tomasdias26719-rgb/eclipse-modpack/main/mods/eclipse-cobblemon-keys-1.0.0%20%281%29.jar",
+      "sha256": "052d9901a28bdb8b66807d77b63388ca074754a86211e69b0a65913aed5c496a"
+    }
+  ],
+  "delete": []
+}
